@@ -3,7 +3,7 @@
 `Audio Mixing` `Music Production` `Sound Design` `DAW Plugin Dev`
 
 <!-- 1. Typing SVG 動態打字效果 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=300&speed=50&color=888888&width=600&lines=while+%28alive%29+%7B+practice%28%29%3B+debug%28%29%3B+invest%28%29%3B+%7D;%2F%2F+Waiting+for+the+drop...;Audio+Engineer+%C2%B7+Plugin+Dev+%C2%B7+Game+Audio+%C2%B7+Taipei%2C+Taiwan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=300&speed=50&color=888888&width=600&lines=const+life+%3D+%28%29+%3D%3E+practice%28%29+%26%26+debug%28%29+%26%26+invest%28%29;%2F%2F+Waiting+for+the+drop...;Audio+Engineer+%C2%B7+Plugin+Dev+%C2%B7+Game+Audio+%C2%B7+Taipei%2C+Taiwan)](https://git.io/typing-svg)
 
 > 音 [@xue_hwcxx](https://instagram.com/xue_hwcxx) · 攝 [@cggc_xue](https://instagram.com/cggc_xue) · 車攝 / 混音 / 編曲  
 > Based in Taipei, Taiwan
